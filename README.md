@@ -25,6 +25,7 @@ The goal of this project is to analyze and visualize retail sales data to extrac
 
 ## 📂 Dataset
 
+**🔗 [Sales Forecasting Dataset by Rohit Sahoo](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)**
 - `train.csv`: Raw transactional sales data.
 - `Cleaned_Sales.csv`: Cleaned version of the dataset used for analysis.
 
