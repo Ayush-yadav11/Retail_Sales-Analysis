@@ -14,7 +14,6 @@ A complete data analytics project using Python and Jupyter Notebook to explore a
 - [Project Structure](#project-structure)
 - [Results & Insights](#results--insights)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
